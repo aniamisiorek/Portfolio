@@ -1,1 +1,4 @@
-# Checking for edits, nothing should be here 
+# My Portfolio
+Portfolio made for Ania Misiorek.
+
+All changes were made through git.
